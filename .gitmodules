@@ -1,6 +1,5 @@
-[submodule "blog-Alice/themes/hugo-PaperMod"]
-	path = blog-Alice/themes/hugo-PaperMod
-	url = git@github.com:encuentroregionalifvp/hugo-PaperMod.git
+
 [submodule "themes/hugo-PaperMod"]
 	path = themes/hugo-PaperMod
 	url = git@github.com:encuentroregionalifvp/hugo-PaperMod.git
+
