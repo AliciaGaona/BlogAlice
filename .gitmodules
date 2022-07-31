@@ -1,5 +1,4 @@
 
-[submodule "theme/hugo-PaperMod"]
-	path = theme/hugo-PaperMod
-	url = git@github.com:encuentroregionalifvp/hugo-PaperMod.git
-
+[submodule "themes/hugo-theme-sam"]
+	path = themes/hugo-theme-sam
+	url = git@github.com:AliciaGaona/hugo-theme-sam.git
